@@ -1,8 +1,10 @@
 {
   "item.simplemod.amethyst": "Amethyst",
+  "item.simplemod.dowsing_rod": "Dowsing Rod",
 
   "itemGroup.simplemod": "Simple Mod",
 
   "block.simplemod.amethyst_ore": "Ametyst Ore",
-  "block.simplemod.amethyst_block": "Amethyst Block"
+  "block.simplemod.amethyst_block": "Amethyst Block",
+  "item.simplemod.dowsing_rod.no_valuables": "No Valuables Found!"
 }
