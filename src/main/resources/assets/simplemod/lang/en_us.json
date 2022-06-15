@@ -1,10 +1,17 @@
 {
   "item.simplemod.amethyst": "Amethyst",
   "item.simplemod.dowsing_rod": "Dowsing Rod",
+  "item.simplemod.cucumber": "Cucumber",
+  "item.simplemod.coal_coke": "Coal Coke",
 
   "itemGroup.simplemod": "Simple Mod",
 
   "block.simplemod.amethyst_ore": "Ametyst Ore",
   "block.simplemod.amethyst_block": "Amethyst Block",
-  "item.simplemod.dowsing_rod.no_valuables": "No Valuables Found!"
+  "block.simplemod.speedy_block": "Speedy Block",
+
+  "item.simplemod.dowsing_rod.no_valuables": "No Valuables Found!",
+  "tooltip.simplemod.dowsing_rod.tooltip.shift": "Right Click to find the Valiables!",
+  "tooltip.simplemod.dowsing_rod.tooltip": "Press §eShift§r for more Information",
+  "tooltip.simplemod.block.speedy_block": "I am speed"
 }
